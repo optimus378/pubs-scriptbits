@@ -20,7 +20,7 @@ if not channel_id:
     exit()
 
 # 2. Use the retrieved channel ID to iterate through all videos
-search_string = 'Khun'
+search_string = 'TextString'
 page_token = None
 
 while True:
